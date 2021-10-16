@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GD7XRCY6TXN3ZSEERR5DWSQDOLOMWHW6VGTHWPN7N2XFXQDDHHXOHRWV"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="Chiliz Token"
+ORG_URL="https://Chiliz.com/"
+ORG_DESCRIPTION="Chiliz is 100% decentralized and is run by our community of Inu Killers."
+ORG_TWITTER="@Chiliz"
+ORG_LOGO="https://ibb.co/2Y51r38"
+ORG_OFFICIAL_EMAIL="contact@chiliz.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="Chiliz"
+issuer="GD7XRCY6TXN3ZSEERR5DWSQDOLOMWHW6VGTHWPN7N2XFXQDDHHXOHRWV"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
-conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
-fixed_number=2000000
-max_number=2000000
+name="Chiliz"
+desc="Chiliz / Lobstr has several offices around the world - in Turkey, Korea, Switzerland - and is looking to continue expanding with new offices in Spain, the United States and Brazil. The company has over 100 talented employees and will double in number in 2021."
+conditions="As an exclusive currency on the platform, fans use CHZ to purchase these branded fan tokens, giving users the opportunity to participate in the process by polling our partners, which are posted on the Lobstr app."
+image="https://ibb.co/2Y51r38"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#Chiliz Token was issued using the open and inclusive Stellar blockchain network.
